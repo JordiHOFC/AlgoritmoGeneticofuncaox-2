@@ -1,4 +1,4 @@
-# AlgoritmoGeneticofuncaox-2
+# AlgoritmoGeneticofuncao x²
 
 Algoritmo Genetico em C, para maximizar a função x²	
     
