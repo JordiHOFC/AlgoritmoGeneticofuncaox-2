@@ -7,19 +7,19 @@ Algoritmo Genetico em C, para maximizar a função x²
 *  MAX. f(x)
  # L = 16, pC = 80%, pM = 5%, 200 gerações.
 
-*Tamanho População:20
+Tamanho População:20
 
 
-*Seleção p/ reprodução: Torneio
+Seleção p/ reprodução: Torneio
 
- *Cruzamento: 1 ponto de corte
+Cruzamento: 1 ponto de corte
  
- *Mutação: Bit Flip
+Mutação: Bit Flip
  
- *Substituição: Geracional
+ Substituição: Geracional
  
- *pC: percentual cruzamento
+ pC: percentual cruzamento
  
- *pM: percentual mutação
+ pM: percentual mutação
  
- *L = tamanho de bits
+ L = tamanho de bits
